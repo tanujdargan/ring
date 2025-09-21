@@ -132,7 +132,7 @@ export function LinkTreeProfile() {
         href="https://fmhy.net"
         target="_blank"
         rel="noopener noreferrer"
-        className="fixed bottom-6 right-6 w-12 h-12 bg-gradient-to-br from-yellow-400 via-yellow-500 to-amber-600 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 flex items-center justify-center text-2xl border-2 border-yellow-300/50 hover:border-yellow-200/70"
+        className="fixed top-6 right-6 w-12 h-12 bg-gradient-to-br from-yellow-400 via-yellow-500 to-amber-600 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 flex items-center justify-center text-2xl border-2 border-yellow-300/50 hover:border-yellow-200/70"
         title="FMHY"
       >
         💎
